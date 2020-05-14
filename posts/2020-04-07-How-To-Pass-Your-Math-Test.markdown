@@ -1,5 +1,5 @@
 ---
-title: How to Pass a (Math) Test
+title: How to Pass your (Math) Test
 ---
 
 So, it's the day before the test. You've done the best you can to prepare up till now. What do you do? 
