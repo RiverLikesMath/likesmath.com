@@ -1,5 +1,6 @@
 ---
 title: How to Pass your (Math) Test
+headerImg: findx.png	
 ---
 
 So, it's the day before the test. You've done the best you can to prepare up till now. What do you do? 
