@@ -1,6 +1,7 @@
 ---
 title: Why I Love Math (Part 1)
 headerImg: elementar_math_tools.png
+tags: Math, Why I Love Math
 ---
 When I was young, I didn’t know that math could be scary.  It was only much, much later, when I started to teach, that I started to hear people say “I hate math.”
 It’s by far the most common thing that people say to me when I tell them about my profession.  Young and old, rich and poor, the biggest single thread between those I talk to is that they don’t like math. 
